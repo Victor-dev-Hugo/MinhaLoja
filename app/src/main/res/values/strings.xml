@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">MinhaLoja</string>
+    <string name="subtitulo_login">Entre ou crie sua conta</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_senha">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="criar_conta">Criar conta</string>
+    <string name="sair">Sair</string>
+    <string name="meus_favoritos">Meus favoritos</string>
+    <string name="titulo_produtos">Produtos</string>
+    <string name="titulo_favoritos">Meus favoritos</string>
+    <string name="carregando">Carregando…</string>
+    <string name="tentar_novamente">Tentar novamente</string>
+    <string name="remover">Remover</string>
+    <string name="salvo_em">Salvo em %1$s</string>
+    <string name="sem_favoritos">Você ainda não tem favoritos.\nToque em um produto na lista para salvá-lo.</string>
+    <string name="desc_imagem_produto">Foto do produto</string>
+
+    <string name="favorito_salvo">Produto salvo nos favoritos</string>
+    <string name="favorito_removido">Favorito removido</string>
+
+    <string name="erro_campos_vazios">Preencha o e-mail e a senha.</string>
+    <string name="erro_email_invalido">E-mail inválido.</string>
+    <string name="erro_senha_curta">A senha precisa ter pelo menos 6 caracteres.</string>
+    <string name="erro_credenciais">E-mail ou senha incorretos.</string>
+    <string name="erro_usuario_inexistente">Não existe conta com esse e-mail.</string>
+    <string name="erro_email_em_uso">Já existe uma conta com esse e-mail.</string>
+    <string name="erro_rede">Sem conexão com a internet. Verifique sua rede.</string>
+    <string name="erro_generico">Não foi possível concluir. Tente novamente.</string>
+    <string name="erro_produtos">Não foi possível carregar os produtos.</string>
+    <string name="erro_salvar_favorito">Erro ao salvar o favorito.</string>
+    <string name="erro_ler_favoritos">Erro ao carregar os favoritos.</string>
+    <string name="erro_remover_favorito">Erro ao remover o favorito.</string>
+</resources>
